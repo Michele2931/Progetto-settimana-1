@@ -1,0 +1,64 @@
+ header {
+     text-align: center;
+     background-color: black;
+     margin: 0%;
+     padding: 25px;
+
+
+ }
+
+
+
+ body {
+     text-align: center;
+     margin: 0%;
+     padding: 0%;
+
+
+ }
+
+ .button:link {
+     color: white;
+ }
+
+
+ .button {
+     background-color: #f04c2f;
+     text-align: center;
+     display: inline-block;
+     padding: 10px 20px;
+     border-radius: 5px;
+
+ }
+
+ .logo {
+     text-align: center;
+ }
+
+ .citazione {
+     background-color: #ff6600;
+     color: white;
+     text-align: center;
+     padding: 10%;
+ }
+
+ .container2 img {
+     border-radius: 360px;
+ }
+
+ footer {
+
+     margin: 0px;
+     padding: 0px;
+     border-bottom: 0px;
+     background-color: #25a2c3;
+ }
+
+ .footer h2 {
+     color: white;
+ }
+
+ .didascalia {
+     padding: 0%;
+     margin: 1px solid black;
+ }
